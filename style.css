@@ -1,0 +1,51 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    padding-top: 10px;
+    margin-left: 100px;
+    text-align: left;
+    color: white;
+
+}
+
+.clock h1 {
+    margin-right: 50px;
+    font-size: 15px;
+    text-align: right;
+    color: white;
+    
+}
+#time{
+    margin-right: 90px;
+}
+h2 {
+    text-align: left;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 14px;
+    margin: auto;
+}
+
+.row {
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.footer {
+  padding-bottom: 10px;
+}
